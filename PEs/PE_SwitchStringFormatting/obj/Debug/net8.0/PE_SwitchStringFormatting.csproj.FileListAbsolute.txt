@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\bin\Debug\net8.0\PE_SwitchStringFormatting.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\bin\Debug\net8.0\PE_SwitchStringFormatting.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\bin\Debug\net8.0\PE_SwitchStringFormatting.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\bin\Debug\net8.0\PE_SwitchStringFormatting.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\bin\Debug\net8.0\PE_SwitchStringFormatting.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\PE_SwitchStringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\PE_SwitchStringFormatting.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\PE_SwitchStringFormatting.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\PE_SwitchStringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\PE_SwitchStringFormatting.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\PE_SwitchStringFormatting.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\refint\PE_SwitchStringFormatting.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\PE_SwitchStringFormatting.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\PE_SwitchStringFormatting.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_SwitchStringFormatting\obj\Debug\net8.0\ref\PE_SwitchStringFormatting.dll

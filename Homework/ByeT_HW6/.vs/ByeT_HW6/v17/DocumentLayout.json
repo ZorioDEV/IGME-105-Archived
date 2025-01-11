@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tjbye\\OneDrive\\Documents\\GitHub\\105-personal-repo-ZorioDEV\\Homework\\ByeT_HW6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCA3F4-B523-4F77-AB83-262EAED2278F}|ByeT_HW6.csproj|c:\\users\\tjbye\\onedrive\\documents\\github\\105-personal-repo-zoriodev\\homework\\byet_hw6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCA3F4-B523-4F77-AB83-262EAED2278F}|ByeT_HW6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCA3F4-B523-4F77-AB83-262EAED2278F}|ByeT_HW6.csproj|c:\\users\\tjbye\\onedrive\\documents\\github\\105-personal-repo-zoriodev\\homework\\byet_hw6\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCA3F4-B523-4F77-AB83-262EAED2278F}|ByeT_HW6.csproj|solutionrelative:wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCA3F4-B523-4F77-AB83-262EAED2278F}|ByeT_HW6.csproj|c:\\users\\tjbye\\onedrive\\documents\\github\\105-personal-repo-zoriodev\\homework\\byet_hw6\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCA3F4-B523-4F77-AB83-262EAED2278F}|ByeT_HW6.csproj|solutionrelative:dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BCA3F4-B523-4F77-AB83-262EAED2278F}|ByeT_HW6.csproj|c:\\users\\tjbye\\onedrive\\documents\\github\\105-personal-repo-zoriodev\\homework\\byet_hw6\\commoncharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BCA3F4-B523-4F77-AB83-262EAED2278F}|ByeT_HW6.csproj|solutionrelative:commoncharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dragon.cs",
+              "DocumentMoniker": "C:\\Users\\tjbye\\OneDrive\\Documents\\GitHub\\105-personal-repo-ZorioDEV\\Homework\\ByeT_HW6\\Dragon.cs",
+              "RelativeDocumentMoniker": "Dragon.cs",
+              "ToolTip": "C:\\Users\\tjbye\\OneDrive\\Documents\\GitHub\\105-personal-repo-ZorioDEV\\Homework\\ByeT_HW6\\Dragon.cs",
+              "RelativeToolTip": "Dragon.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:19:17.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\tjbye\\OneDrive\\Documents\\GitHub\\105-personal-repo-ZorioDEV\\Homework\\ByeT_HW6\\Wizard.cs",
+              "RelativeDocumentMoniker": "Wizard.cs",
+              "ToolTip": "C:\\Users\\tjbye\\OneDrive\\Documents\\GitHub\\105-personal-repo-ZorioDEV\\Homework\\ByeT_HW6\\Wizard.cs",
+              "RelativeToolTip": "Wizard.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwFQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:07:41.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\tjbye\\OneDrive\\Documents\\GitHub\\105-personal-repo-ZorioDEV\\Homework\\ByeT_HW6\\CommonCharacter.cs",
+              "RelativeDocumentMoniker": "CommonCharacter.cs",
+              "ToolTip": "C:\\Users\\tjbye\\OneDrive\\Documents\\GitHub\\105-personal-repo-ZorioDEV\\Homework\\ByeT_HW6\\CommonCharacter.cs",
+              "RelativeToolTip": "CommonCharacter.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:56:05.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjbye\\OneDrive\\Documents\\GitHub\\105-personal-repo-ZorioDEV\\Homework\\ByeT_HW6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tjbye\\OneDrive\\Documents\\GitHub\\105-personal-repo-ZorioDEV\\Homework\\ByeT_HW6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:53:14.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

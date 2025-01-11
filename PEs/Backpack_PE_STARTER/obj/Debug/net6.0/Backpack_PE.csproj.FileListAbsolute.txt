@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\bin\Debug\net6.0\Backpack_PE.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\bin\Debug\net6.0\Backpack_PE.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\bin\Debug\net6.0\Backpack_PE.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\bin\Debug\net6.0\Backpack_PE.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\bin\Debug\net6.0\Backpack_PE.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\Backpack_PE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\Backpack_PE.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\Backpack_PE.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\Backpack_PE.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\Backpack_PE.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\Backpack_PE.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\refint\Backpack_PE.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\Backpack_PE.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\Backpack_PE.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\Backpack_PE_STARTER\obj\Debug\net6.0\ref\Backpack_PE.dll

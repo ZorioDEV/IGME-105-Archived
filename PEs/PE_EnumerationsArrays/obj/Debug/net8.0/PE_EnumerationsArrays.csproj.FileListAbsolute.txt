@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\bin\Debug\net8.0\PE_EnumerationsArrays.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\bin\Debug\net8.0\PE_EnumerationsArrays.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\bin\Debug\net8.0\PE_EnumerationsArrays.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\bin\Debug\net8.0\PE_EnumerationsArrays.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\bin\Debug\net8.0\PE_EnumerationsArrays.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\PE_EnumerationsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\PE_EnumerationsArrays.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\PE_EnumerationsArrays.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\PE_EnumerationsArrays.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\PE_EnumerationsArrays.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\PE_EnumerationsArrays.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\refint\PE_EnumerationsArrays.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\PE_EnumerationsArrays.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\PE_EnumerationsArrays.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_EnumerationsArrays\obj\Debug\net8.0\ref\PE_EnumerationsArrays.dll

@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\bin\Debug\net8.0\ByeT_HW6.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\bin\Debug\net8.0\ByeT_HW6.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\bin\Debug\net8.0\ByeT_HW6.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\bin\Debug\net8.0\ByeT_HW6.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\bin\Debug\net8.0\ByeT_HW6.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\ByeT_HW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\ByeT_HW6.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\ByeT_HW6.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\ByeT_HW6.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\ByeT_HW6.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\ByeT_HW6.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\refint\ByeT_HW6.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\ByeT_HW6.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\ByeT_HW6.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Homework\ByeT_HW6\obj\Debug\net8.0\ref\ByeT_HW6.dll

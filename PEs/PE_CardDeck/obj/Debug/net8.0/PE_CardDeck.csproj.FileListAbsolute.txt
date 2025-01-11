@@ -1,0 +1,14 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\bin\Debug\net8.0\PE_CardDeck.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\bin\Debug\net8.0\PE_CardDeck.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\bin\Debug\net8.0\PE_CardDeck.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\bin\Debug\net8.0\PE_CardDeck.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\bin\Debug\net8.0\PE_CardDeck.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\obj\Debug\net8.0\PE_CardDeck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\obj\Debug\net8.0\PE_CardDeck.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\obj\Debug\net8.0\PE_CardDeck.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\obj\Debug\net8.0\PE_CardDeck.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\obj\Debug\net8.0\PE_CardDeck.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\obj\Debug\net8.0\refint\PE_CardDeck.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\obj\Debug\net8.0\PE_CardDeck.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\obj\Debug\net8.0\PE_CardDeck.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\PE_CardDeck\obj\Debug\net8.0\ref\PE_CardDeck.dll

@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\bin\Debug\net8.0\TryParseRandom_Demo.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\bin\Debug\net8.0\TryParseRandom_Demo.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\bin\Debug\net8.0\TryParseRandom_Demo.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\bin\Debug\net8.0\TryParseRandom_Demo.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\bin\Debug\net8.0\TryParseRandom_Demo.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\TryParseRandom_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\TryParseRandom_Demo.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\TryParseRandom_Demo.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\TryParseRandom_Demo.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\TryParseRandom_Demo.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\TryParseRandom_Demo.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\refint\TryParseRandom_Demo.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\TryParseRandom_Demo.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\TryParseRandom_Demo.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\TryParseRandom_Demo\obj\Debug\net8.0\ref\TryParseRandom_Demo.dll

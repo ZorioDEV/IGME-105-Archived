@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\bin\Debug\net8.0\PE_ArrayMethods.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\bin\Debug\net8.0\PE_ArrayMethods.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\bin\Debug\net8.0\PE_ArrayMethods.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\bin\Debug\net8.0\PE_ArrayMethods.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\bin\Debug\net8.0\PE_ArrayMethods.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\PE_ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\PE_ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\PE_ArrayMethods.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\PE_ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\PE_ArrayMethods.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\PE_ArrayMethods.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\refint\PE_ArrayMethods.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\PE_ArrayMethods.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\PE_ArrayMethods.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ArrayMethods\obj\Debug\net8.0\ref\PE_ArrayMethods.dll

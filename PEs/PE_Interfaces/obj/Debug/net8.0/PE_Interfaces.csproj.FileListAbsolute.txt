@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\PE_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\PE_Interfaces.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\PE_Interfaces.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\PE_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\PE_Interfaces.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\bin\Debug\net8.0\PE_Interfaces.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\bin\Debug\net8.0\PE_Interfaces.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\bin\Debug\net8.0\PE_Interfaces.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\bin\Debug\net8.0\PE_Interfaces.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\bin\Debug\net8.0\PE_Interfaces.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\PE_Interfaces.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\refint\PE_Interfaces.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\PE_Interfaces.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\PE_Interfaces.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Interfaces\obj\Debug\net8.0\ref\PE_Interfaces.dll

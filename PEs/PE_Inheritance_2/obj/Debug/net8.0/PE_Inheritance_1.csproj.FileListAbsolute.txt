@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\bin\Debug\net8.0\PE_Inheritance_1.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\bin\Debug\net8.0\PE_Inheritance_1.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\bin\Debug\net8.0\PE_Inheritance_1.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\bin\Debug\net8.0\PE_Inheritance_1.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\bin\Debug\net8.0\PE_Inheritance_1.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\PE_Inheritance_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\PE_Inheritance_1.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\PE_Inheritance_1.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\PE_Inheritance_1.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\PE_Inheritance_1.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\PE_Inheritance_1.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\refint\PE_Inheritance_1.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\PE_Inheritance_1.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\PE_Inheritance_1.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Inheritance_2\obj\Debug\net8.0\ref\PE_Inheritance_1.dll

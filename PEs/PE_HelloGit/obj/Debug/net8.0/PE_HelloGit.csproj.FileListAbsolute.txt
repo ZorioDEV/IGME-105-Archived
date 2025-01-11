@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\bin\Debug\net8.0\PE_HelloGit.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\bin\Debug\net8.0\PE_HelloGit.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\bin\Debug\net8.0\PE_HelloGit.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\bin\Debug\net8.0\PE_HelloGit.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\bin\Debug\net8.0\PE_HelloGit.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\PE_HelloGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\PE_HelloGit.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\PE_HelloGit.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\PE_HelloGit.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\PE_HelloGit.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\PE_HelloGit.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\refint\PE_HelloGit.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\PE_HelloGit.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\PE_HelloGit.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_HelloGit\obj\Debug\net8.0\ref\PE_HelloGit.dll

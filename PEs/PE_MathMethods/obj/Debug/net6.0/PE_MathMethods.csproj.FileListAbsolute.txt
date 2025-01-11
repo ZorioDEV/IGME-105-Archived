@@ -1,0 +1,14 @@
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\bin\Debug\net6.0\PE_MathMethods.exe
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\bin\Debug\net6.0\PE_MathMethods.deps.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\bin\Debug\net6.0\PE_MathMethods.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\bin\Debug\net6.0\PE_MathMethods.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\bin\Debug\net6.0\PE_MathMethods.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\obj\Debug\net6.0\PE_MathMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\obj\Debug\net6.0\PE_MathMethods.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\obj\Debug\net6.0\PE_MathMethods.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\obj\Debug\net6.0\PE_MathMethods.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\obj\Debug\net6.0\PE_MathMethods.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\obj\Debug\net6.0\refint\PE_MathMethods.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\obj\Debug\net6.0\PE_MathMethods.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\obj\Debug\net6.0\PE_MathMethods.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_MathMethods\obj\Debug\net6.0\ref\PE_MathMethods.dll

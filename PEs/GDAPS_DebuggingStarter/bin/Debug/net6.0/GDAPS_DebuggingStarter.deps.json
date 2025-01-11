@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GDAPS_DebuggingStarter/1.0.0": {
+        "runtime": {
+          "GDAPS_DebuggingStarter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GDAPS_DebuggingStarter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

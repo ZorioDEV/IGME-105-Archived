@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\bin\Debug\net8.0\PE_ForLoops.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\bin\Debug\net8.0\PE_ForLoops.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\bin\Debug\net8.0\PE_ForLoops.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\bin\Debug\net8.0\PE_ForLoops.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\bin\Debug\net8.0\PE_ForLoops.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\PE_ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\PE_ForLoops.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\PE_ForLoops.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\PE_ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\PE_ForLoops.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\PE_ForLoops.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\refint\PE_ForLoops.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\PE_ForLoops.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\PE_ForLoops.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_ForLoops\obj\Debug\net8.0\ref\PE_ForLoops.dll

@@ -1,0 +1,14 @@
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\bin\Debug\net6.0\PE_String.exe
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\bin\Debug\net6.0\PE_String.deps.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\bin\Debug\net6.0\PE_String.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\bin\Debug\net6.0\PE_String.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\bin\Debug\net6.0\PE_String.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\obj\Debug\net6.0\PE_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\obj\Debug\net6.0\PE_String.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\obj\Debug\net6.0\PE_String.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\obj\Debug\net6.0\PE_String.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\obj\Debug\net6.0\PE_String.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\obj\Debug\net6.0\refint\PE_String.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\obj\Debug\net6.0\PE_String.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\obj\Debug\net6.0\PE_String.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_String\obj\Debug\net6.0\ref\PE_String.dll

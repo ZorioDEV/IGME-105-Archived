@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE_SwitchStringFormatting", "PE_SwitchStringFormatting.csproj", "{FC6142DD-0C51-463D-BD61-2D7EB19B41D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC6142DD-0C51-463D-BD61-2D7EB19B41D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6142DD-0C51-463D-BD61-2D7EB19B41D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6142DD-0C51-463D-BD61-2D7EB19B41D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6142DD-0C51-463D-BD61-2D7EB19B41D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2DADA56-1FA2-4A3A-A685-0761F1E862DD}
+	EndGlobalSection
+EndGlobal

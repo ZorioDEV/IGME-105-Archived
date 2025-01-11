@@ -1,0 +1,14 @@
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\bin\Debug\net6.0\PE_Variables.exe
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\bin\Debug\net6.0\PE_Variables.deps.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\bin\Debug\net6.0\PE_Variables.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\bin\Debug\net6.0\PE_Variables.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\bin\Debug\net6.0\PE_Variables.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\obj\Debug\net6.0\PE_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\obj\Debug\net6.0\PE_Variables.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\obj\Debug\net6.0\PE_Variables.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\obj\Debug\net6.0\PE_Variables.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\obj\Debug\net6.0\PE_Variables.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\obj\Debug\net6.0\refint\PE_Variables.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\obj\Debug\net6.0\PE_Variables.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\obj\Debug\net6.0\PE_Variables.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_Variables\obj\Debug\net6.0\ref\PE_Variables.dll

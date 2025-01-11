@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\bin\Debug\net8.0\PE_AbstractClasses.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\bin\Debug\net8.0\PE_AbstractClasses.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\bin\Debug\net8.0\PE_AbstractClasses.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\bin\Debug\net8.0\PE_AbstractClasses.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\bin\Debug\net8.0\PE_AbstractClasses.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\PE_AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\PE_AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\PE_AbstractClasses.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\PE_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\PE_AbstractClasses.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\PE_AbstractClasses.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\refint\PE_AbstractClasses.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\PE_AbstractClasses.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\PE_AbstractClasses.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PE_AbstractClasses\obj\Debug\net8.0\ref\PE_AbstractClasses.dll

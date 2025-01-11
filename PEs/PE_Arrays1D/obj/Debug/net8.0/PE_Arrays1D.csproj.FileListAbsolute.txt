@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\bin\Debug\net8.0\PE_Arrays1D.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\bin\Debug\net8.0\PE_Arrays1D.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\bin\Debug\net8.0\PE_Arrays1D.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\bin\Debug\net8.0\PE_Arrays1D.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\bin\Debug\net8.0\PE_Arrays1D.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\PE_Arrays1D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\PE_Arrays1D.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\PE_Arrays1D.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\PE_Arrays1D.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\PE_Arrays1D.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\PE_Arrays1D.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\refint\PE_Arrays1D.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\PE_Arrays1D.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\PE_Arrays1D.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_Arrays1D\obj\Debug\net8.0\ref\PE_Arrays1D.dll

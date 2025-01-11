@@ -1,0 +1,14 @@
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\bin\Debug\net6.0\PE_InputParsing.exe
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\bin\Debug\net6.0\PE_InputParsing.deps.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\bin\Debug\net6.0\PE_InputParsing.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\bin\Debug\net6.0\PE_InputParsing.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\bin\Debug\net6.0\PE_InputParsing.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\obj\Debug\net6.0\PE_InputParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\obj\Debug\net6.0\PE_InputParsing.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\obj\Debug\net6.0\PE_InputParsing.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\obj\Debug\net6.0\PE_InputParsing.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\obj\Debug\net6.0\PE_InputParsing.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\obj\Debug\net6.0\refint\PE_InputParsing.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\obj\Debug\net6.0\PE_InputParsing.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\obj\Debug\net6.0\PE_InputParsing.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_InputParsing\obj\Debug\net6.0\ref\PE_InputParsing.dll

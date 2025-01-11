@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\bin\Debug\net8.0\PE_CompoundConditionals.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\bin\Debug\net8.0\PE_CompoundConditionals.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\bin\Debug\net8.0\PE_CompoundConditionals.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\bin\Debug\net8.0\PE_CompoundConditionals.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\bin\Debug\net8.0\PE_CompoundConditionals.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\PE_CompoundConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\PE_CompoundConditionals.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\PE_CompoundConditionals.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\PE_CompoundConditionals.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\PE_CompoundConditionals.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\PE_CompoundConditionals.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\refint\PE_CompoundConditionals.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\PE_CompoundConditionals.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\PE_CompoundConditionals.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_CompoundConditionals\obj\Debug\net8.0\ref\PE_CompoundConditionals.dll

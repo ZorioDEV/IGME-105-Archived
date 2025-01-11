@@ -1,0 +1,14 @@
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\bin\Debug\net6.0\PE_StatementsExpressions.exe
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\bin\Debug\net6.0\PE_StatementsExpressions.deps.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\bin\Debug\net6.0\PE_StatementsExpressions.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\bin\Debug\net6.0\PE_StatementsExpressions.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\bin\Debug\net6.0\PE_StatementsExpressions.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\obj\Debug\net6.0\PE_StatementsExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\obj\Debug\net6.0\PE_StatementsExpressions.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\obj\Debug\net6.0\PE_StatementsExpressions.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\obj\Debug\net6.0\PE_StatementsExpressions.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\obj\Debug\net6.0\PE_StatementsExpressions.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\obj\Debug\net6.0\refint\PE_StatementsExpressions.dll
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\obj\Debug\net6.0\PE_StatementsExpressions.pdb
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\obj\Debug\net6.0\PE_StatementsExpressions.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Desktop\College PDFs\IGME 105\PE_StatementsExpressions\obj\Debug\net6.0\ref\PE_StatementsExpressions.dll

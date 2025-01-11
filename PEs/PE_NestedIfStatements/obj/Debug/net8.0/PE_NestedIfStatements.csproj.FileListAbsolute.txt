@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\bin\Debug\net8.0\PE_NestedIfStatements.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\bin\Debug\net8.0\PE_NestedIfStatements.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\bin\Debug\net8.0\PE_NestedIfStatements.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\bin\Debug\net8.0\PE_NestedIfStatements.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\bin\Debug\net8.0\PE_NestedIfStatements.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\PE_NestedIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\PE_NestedIfStatements.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\PE_NestedIfStatements.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\PE_NestedIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\PE_NestedIfStatements.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\PE_NestedIfStatements.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\refint\PE_NestedIfStatements.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\PE_NestedIfStatements.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\PE_NestedIfStatements.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_NestedIfStatements\obj\Debug\net8.0\ref\PE_NestedIfStatements.dll

@@ -1,0 +1,20 @@
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.csproj.AssemblyReference.cache
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfoInputs.cache
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfo.cs
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\bin\Debug\net6.0\GDAPS_DebuggingStarter.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\bin\Debug\net6.0\GDAPS_DebuggingStarter.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\bin\Debug\net6.0\GDAPS_DebuggingStarter.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\bin\Debug\net6.0\GDAPS_DebuggingStarter.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\bin\Debug\net6.0\GDAPS_DebuggingStarter.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\refint\GDAPS_DebuggingStarter.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\GDAPS_DebuggingStarter\obj\Debug\net6.0\ref\GDAPS_DebuggingStarter.dll

@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\bin\Debug\net8.0\PE_RandomTryParse.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\bin\Debug\net8.0\PE_RandomTryParse.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\bin\Debug\net8.0\PE_RandomTryParse.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\bin\Debug\net8.0\PE_RandomTryParse.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\bin\Debug\net8.0\PE_RandomTryParse.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\PE_RandomTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\PE_RandomTryParse.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\PE_RandomTryParse.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\PE_RandomTryParse.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\PE_RandomTryParse.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\PE_RandomTryParse.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\refint\PE_RandomTryParse.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\PE_RandomTryParse.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\PE_RandomTryParse.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\PE_RandomTryParse\obj\Debug\net8.0\ref\PE_RandomTryParse.dll

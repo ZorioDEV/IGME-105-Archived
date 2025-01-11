@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\ClassesDemo\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\Demos\ClassesDemo\.editorconfig" />
+  </ItemGroup>
+
+</Project>

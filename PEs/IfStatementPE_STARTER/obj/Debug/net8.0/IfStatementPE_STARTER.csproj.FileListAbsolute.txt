@@ -1,0 +1,29 @@
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.exe
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.deps.json
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.runtimeconfig.json
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.dll
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.pdb
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.AssemblyInfoInputs.cache
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.AssemblyInfo.cs
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.csproj.CoreCompileInputs.cache
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.dll
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\obj\Debug\net8.0\refint\IfStatementPE_STARTER.dll
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.pdb
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.genruntimeconfig.cache
+C:\Users\edcigm\Desktop\IGME 105\IfStatementPE_STARTER\obj\Debug\net8.0\ref\IfStatementPE_STARTER.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\bin\Debug\net8.0\IfStatementPE_STARTER.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\refint\IfStatementPE_STARTER.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\IfStatementPE_STARTER.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\IfStatementPE_STARTER\obj\Debug\net8.0\ref\IfStatementPE_STARTER.dll

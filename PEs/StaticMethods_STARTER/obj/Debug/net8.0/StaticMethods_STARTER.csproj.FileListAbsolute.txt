@@ -1,0 +1,15 @@
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\bin\Debug\net8.0\StaticMethods_STARTER.exe
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\bin\Debug\net8.0\StaticMethods_STARTER.deps.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\bin\Debug\net8.0\StaticMethods_STARTER.runtimeconfig.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\bin\Debug\net8.0\StaticMethods_STARTER.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\bin\Debug\net8.0\StaticMethods_STARTER.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\StaticMethods_STARTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\StaticMethods_STARTER.AssemblyInfoInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\StaticMethods_STARTER.AssemblyInfo.cs
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\StaticMethods_STARTER.csproj.CoreCompileInputs.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\StaticMethods_STARTER.sourcelink.json
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\StaticMethods_STARTER.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\refint\StaticMethods_STARTER.dll
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\StaticMethods_STARTER.pdb
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\StaticMethods_STARTER.genruntimeconfig.cache
+C:\Users\tjbye\OneDrive\Documents\GitHub\105-personal-repo-ZorioDEV\PEs\StaticMethods_STARTER\obj\Debug\net8.0\ref\StaticMethods_STARTER.dll
